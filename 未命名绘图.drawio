@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T13:48:29.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.0" etag="DBXcVZ36n3XqBP1ejaht" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T02:55:09.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eOMqq-2xY8HbYtAh_OO-" version="22.1.0" type="github">
   <diagram name="第 1 页" id="XyX36WrTh7v85zcgEN8Q">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="guMu553MtNjj-Jn2hArz-1" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;基于深度学习的输气管道故障诊断方法研&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;究&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1020" width="20" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-1000" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-960" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-3" value="基于机器学习的输气管道故障诊断方法算法的对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-990" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-5" value="SPS故障数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-940" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-6" value="时间序列表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-940" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-8" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1150" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-8">
+          <mxGeometry width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-10" value="&lt;div&gt;SVM&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-9">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-11" value="Logistic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-9">
+          <mxGeometry x="80" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-8">
+          <mxGeometry y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-14" value="随机森林" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-13">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-15" value="BP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-13">
+          <mxGeometry x="80" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-8">
+          <mxGeometry y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-18" value="XGBoost" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-17">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="guMu553MtNjj-Jn2hArz-19" value="LSTM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="guMu553MtNjj-Jn2hArz-17">
+          <mxGeometry x="80" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
