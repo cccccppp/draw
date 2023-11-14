@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T13:42:41.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="_6JpGYa7oRzFhIwsoDMn" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T13:44:29.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hEtjEGDbZLTsGVM0R03r" version="22.1.0" type="github">
   <diagram name="第 1 页" id="XyX36WrTh7v85zcgEN8Q">
     <mxGraphModel dx="1000" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="guMu553MtNjj-Jn2hArz-1" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;基于深度学习的输气管道故障诊断方法研&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;究&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="guMu553MtNjj-Jn2hArz-1" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;基于深度学习的输气管道故障诊断方法研&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;究&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="-1020" width="20" height="320" as="geometry" />
         </mxCell>
         <mxCell id="guMu553MtNjj-Jn2hArz-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-1000" width="10" height="280" as="geometry" />
+          <mxGeometry x="170" y="-1040" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="guMu553MtNjj-Jn2hArz-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="214" y="-1040" width="460" height="130" as="geometry" />
@@ -81,48 +81,6 @@
         </mxCell>
         <mxCell id="guMu553MtNjj-Jn2hArz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="guMu553MtNjj-Jn2hArz-25" source="guMu553MtNjj-Jn2hArz-13" target="guMu553MtNjj-Jn2hArz-40">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="guMu553MtNjj-Jn2hArz-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-830" as="sourcePoint" />
-            <mxPoint x="390" y="-880" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
