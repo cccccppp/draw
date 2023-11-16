@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T12:47:45.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="95CUzKH_vywW3EsD3gKw" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T12:47:57.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ef3BqTtV8p1TV1nUSzb5" version="22.1.2" type="github">
   <diagram name="第 1 页" id="HYvwxCKRt6-kvIY1RSBt">
     <mxGraphModel dx="720" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-11" value="FuzzyEn" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
           <mxGeometry x="17" y="70.82758620689651" width="60" height="16.137931034482758" as="geometry" />
         </mxCell>
-        <mxCell id="2n91kEc1MEfVxPzDMiQJ-12" value="提取IMF分量" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=10;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
+        <mxCell id="2n91kEc1MEfVxPzDMiQJ-12" value="提取IMF分量" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=10;fontFamily=Helvetica;fontStyle=1;fontSize=11;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
           <mxGeometry x="77" y="35.86" width="63" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-13" value="" style="endArrow=classic;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=1" edge="1" parent="2n91kEc1MEfVxPzDMiQJ-3" source="2n91kEc1MEfVxPzDMiQJ-11" target="2n91kEc1MEfVxPzDMiQJ-7">
@@ -51,7 +51,7 @@
             <mxPoint x="136" y="62.75862068965512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2n91kEc1MEfVxPzDMiQJ-14" value="设置噪声阈值" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-15;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
+        <mxCell id="2n91kEc1MEfVxPzDMiQJ-14" value="设置噪声阈值" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-15;fontFamily=Helvetica;fontStyle=1;fontSize=11;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
           <mxGeometry x="74.5" y="76.21" width="68" height="8.97" as="geometry" />
         </mxCell>
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-15" value="空间特征" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" vertex="1" parent="2n91kEc1MEfVxPzDMiQJ-3">
