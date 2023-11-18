@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T07:46:03.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="o8TMzJ8iX7ODaa0n_ZTr" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T08:06:06.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="keyXJnwrb149YvFKbR6z" version="22.1.2" type="github">
   <diagram name="第 1 页" id="HYvwxCKRt6-kvIY1RSBt">
     <mxGraphModel dx="1366" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-4" value="" style="rounded=0;dashed=1;fontFamily=Helvetica;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
           <mxGeometry x="-1" y="26.896551724137908" width="460" height="71.72413793103448" as="geometry" />
         </mxCell>
-        <mxCell id="2n91kEc1MEfVxPzDMiQJ-5" value="基于机器学习的输气管道故障诊断方法算法的对比分析" style="rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=16;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
+        <mxCell id="2n91kEc1MEfVxPzDMiQJ-5" value="基于机器学习的输气管道故障诊断方法算法研究" style="rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=16;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
           <mxGeometry width="460" height="26.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-6" value="EEMD" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-7" value="ICA" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
           <mxGeometry x="212" y="51.310344827586164" width="43" height="26.89655172413793" as="geometry" />
         </mxCell>
-        <mxCell id="2n91kEc1MEfVxPzDMiQJ-8" value="故障诊断&#xa;对比分析" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
+        <mxCell id="2n91kEc1MEfVxPzDMiQJ-8" value="输气管道&#xa;故障诊断" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
           <mxGeometry x="382" y="42.59" width="70" height="44.83" as="geometry" />
         </mxCell>
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" target="2n91kEc1MEfVxPzDMiQJ-8" edge="1">
