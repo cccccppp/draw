@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T08:06:56.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="bFnwr_hLt7gXZvQOFr9U" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T16:38:03.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="McobI8MuutS8KCwhgwS0" version="22.1.3" type="github">
   <diagram name="第 1 页" id="HYvwxCKRt6-kvIY1RSBt">
     <mxGraphModel dx="1366" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-42" value="SPS&#xa;故障数据" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-3" vertex="1">
           <mxGeometry x="8" y="46.61827586206891" width="63" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zsT4bbfBKMu0EkgSFM5R-4" value="" style="endArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2n91kEc1MEfVxPzDMiQJ-3" source="2n91kEc1MEfVxPzDMiQJ-7" target="2n91kEc1MEfVxPzDMiQJ-16">
+        <mxCell id="zsT4bbfBKMu0EkgSFM5R-4" value="" style="endArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="2n91kEc1MEfVxPzDMiQJ-3" source="2n91kEc1MEfVxPzDMiQJ-7" target="2n91kEc1MEfVxPzDMiQJ-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="131" y="144.44827586206895" as="sourcePoint" />
             <mxPoint x="181" y="94.44827586206895" as="targetPoint" />
@@ -72,7 +72,7 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-21" value="" style="rounded=0;dashed=1;fontFamily=Helvetica;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-20" vertex="1">
           <mxGeometry y="-5.1034482758620925" width="460" height="71.72413793103448" as="geometry" />
         </mxCell>
-        <mxCell id="2n91kEc1MEfVxPzDMiQJ-22" value="基于深度域自适应网络的输气管道系统故障诊断模型" style="rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=16;" parent="2n91kEc1MEfVxPzDMiQJ-20" vertex="1">
+        <mxCell id="2n91kEc1MEfVxPzDMiQJ-22" value="输气管道系统故障识别模型迁移应用方法研究" style="rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=16;" parent="2n91kEc1MEfVxPzDMiQJ-20" vertex="1">
           <mxGeometry y="-31" width="460" height="26.89655172413793" as="geometry" />
         </mxCell>
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-23" value="模拟数据" style="rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1;" parent="2n91kEc1MEfVxPzDMiQJ-20" vertex="1">
@@ -243,16 +243,16 @@
         <mxCell id="2n91kEc1MEfVxPzDMiQJ-96" value="与已有专业知识&#xa;建立联系" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="530" y="-614" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zsT4bbfBKMu0EkgSFM5R-5" value="" style="shape=curlyBracket;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="zsT4bbfBKMu0EkgSFM5R-5" value="" style="shape=curlyBracket;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="345" y="-938" width="6" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="zsT4bbfBKMu0EkgSFM5R-7" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="zsT4bbfBKMu0EkgSFM5R-7" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="-850" width="30.71" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="zsT4bbfBKMu0EkgSFM5R-8" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="zsT4bbfBKMu0EkgSFM5R-8" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="96.52000000000001" y="-630" width="30.71" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="zsT4bbfBKMu0EkgSFM5R-10" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="zsT4bbfBKMu0EkgSFM5R-10" value="" style="shape=singleArrow;direction=south;arrowWidth=0.3787886186079561;arrowSize=0.4;noLabel=0;fontFamily=Helvetica;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="-630" width="30.71" height="59.5" as="geometry" />
         </mxCell>
       </root>
